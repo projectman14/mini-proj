@@ -64,6 +64,7 @@ def process_claim(claim, image_path=None):
 def main():
     df = pd.read_csv(CLAIMS_CSV)
     rows = []
+    serpapi_key = "b8e21c6f9c83c527215abfe552c01d9599877386ef12f303b92c4121c19d7f96"
     for _, r in df.iterrows():
         features = process_claim(r["text"], r.get("image"))
         features["label"] = r["label"]
