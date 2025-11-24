@@ -1,0 +1,101 @@
+text,image,label
+"A vaccine meant for cattle can be used to fight COVID-19.","",Fake
+"COVID-19 vaccines have killed hundreds of thousands of people.","",Fake
+"COVID-19 vaccines have killed 676,000 Americans.","",Fake
+"Small children are given 80 different vaccines.","",Fake
+"COVID-19 vaccines cause female sterilization.","",Fake
+"Women should avoid getting pregnant for two months after a COVID-19 shot.","",Fake
+"COVID-19 vaccines contain microchips to track people.","",Fake
+"COVID-19 vaccines have made people magnetic.","",Fake
+"Wearing a mask prevents you from getting enough oxygen.","",Fake
+"Getting a flu shot will make you test positive for COVID-19.","",Fake
+"COVID-19 is the same as the seasonal flu.","",Fake
+"If you have had COVID-19, you do not need a vaccine.","",Fake
+"You can catch COVID-19 from the vaccine injection.","",Fake
+"5G mobile networks cause or spread COVID-19.","",Fake
+"Cold weather or snow kills the coronavirus.","",Fake
+"Using hand dryers kills the coronavirus on your skin.","",Fake
+"Mosquito bites can spread COVID-19.","",Fake
+"The coronavirus cannot spread in hot and humid weather.","",Fake
+"Only older adults can spread COVID-19, children are immune.","",Fake
+"Hydroxychloroquine is a proven cure for COVID-19.","",Fake
+"Drinking bleach or disinfectant prevents COVID-19.","",Fake
+"Eating large amounts of garlic cures or prevents COVID-19.","",Fake
+"Exposing your body to UV light cures COVID-19.","",Fake
+"Masks cause carbon dioxide poisoning.","",Fake
+"COVID-19 vaccines alter your DNA.","",Fake
+"COVID-19 vaccines cause infertility in men.","",Fake
+"COVID-19 vaccines were rushed and not properly tested.","",Fake
+"Vaccinated people shed live virus and infect others.","",Fake
+"The pandemic is a plan to control or reduce the population.","",Fake
+"COVID-19 vaccines contain fetal tissue or aborted fetal cells.","",Fake
+"COVID-19 vaccines contain graphene oxide.","",Fake
+"Drinking alcohol will kill the coronavirus in your body.","",Fake
+"COVID-19 vaccines cause autism.","",Fake
+"COVID-19 was created in a laboratory as a weapon.","",Fake
+"Ivermectin cures COVID-19.","",Fake
+"Wearing a mask for a long time causes serious health problems.","",Fake
+"Only people with symptoms can spread COVID-19.","",Fake
+"The ingredients of the COVID-19 vaccine are secret.","",Fake
+"Most people will have severe allergic reactions to the COVID-19 vaccine.","",Fake
+"Long COVID is not a real condition; symptoms are imagined.","",Fake
+"COVID-19 PCR tests are unreliable.","",Fake
+"Natural herbs and vitamins can replace vaccination for COVID-19.","",Fake
+"The Delta variant was engineered in a lab.","",Fake
+"COVID-19 is just a hoax invented by pharmaceutical companies.","",Fake
+"Migrants and foreigners are spreading COVID-19 intentionally.","",Fake
+"COVID-19 is only transmitted by mail or packages.","",Fake
+"Taking antibiotics can treat or prevent COVID-19.","",Fake
+"Vitamin C or D supplements alone can cure COVID-19.","",Fake
+"COVID-19 vaccines cause more severe flu and cold.","",Fake
+"COVID-19 vaccines cause chronic diseases like cancer.","",Fake
+"COVID-19 vaccines do not cause fertility problems in women or men.","",Real
+"COVID-19 vaccines go through rigorous clinical trials to ensure safety and efficacy.","",Real
+"COVID-19 infection carries a higher risk of blood clots than vaccination.","",Real
+"COVID-19 vaccines cannot alter human DNA.","",Real
+"Wearing a face mask helps reduce the spread of COVID-19.","",Real
+"Regular hand washing or using hand sanitizer reduces COVID-19 transmission.","",Real
+"People of all ages, including children, can be infected by COVID-19.","",Real
+"Older adults and people with underlying medical conditions are at higher risk of severe illness from COVID-19.","",Real
+"There is no evidence that COVID-19 vaccines cause autism.","",Real
+"COVID-19 vaccines do not contain live virus.","",Real
+"Health officials recommend COVID-19 vaccination for people planning to become pregnant.","",Real
+"COVID-19 vaccines have been authorized after careful review of safety and efficacy data.","",Real
+"Maintaining physical distance of at least 1 meter reduces the risk of COVID-19 infection.","",Real
+"Masks do not significantly reduce oxygen intake or cause carbon dioxide poisoning.","",Real
+"Loss of taste or smell can be a symptom of COVID-19.","",Real
+"COVID-19 spreads via respiratory droplets from an infected person.","",Real
+"Quarantine and isolation of exposed or infected individuals limit the spread of COVID-19.","",Real
+"Coughing or sneezing into your elbow prevents spreading droplets to others.","",Real
+"COVID-19 is caused by the SARS-CoV-2 coronavirus.","",Real
+"COVID-19 vaccination significantly reduces the risk of severe illness and death.","",Real
+"PCR and antigen tests can detect an active COVID-19 infection.","",Real
+"Breakthrough infections can occur, but vaccines greatly reduce the severity of COVID-19.","",Real
+"COVID-19 vaccination has not been shown to make flu or cold symptoms more severe.","",Real
+"COVID-19 vaccines remain effective at preventing hospitalization and death from variants.","",Real
+"There is no evidence that COVID-19 vaccines cause miscarriage or pregnancy complications.","",Real
+"COVID-19 can spread before symptoms appear, via asymptomatic transmission.","",Real
+"SARS-CoV-2 mutates over time, leading to variants like Delta and Omicron.","",Real
+"Getting vaccinated protects people who cannot get vaccinated by slowing transmission.","",Real
+"Post-COVID conditions, known as long COVID, can include fatigue and brain fog.","",Real
+"COVID-19 vaccines in the U.S. do not contain mercury (they are thimerosal-free).","",Real
+"COVID-19 vaccines are recommended to prevent severe disease and slow virus spread.","",Real
+"The World Health Organization declared COVID-19 a pandemic in March 2020.","",Real
+"Avoiding crowds and maintaining distance are key measures to prevent COVID-19.","",Real
+"COVID-19 can spread in indoor, poorly ventilated spaces.","",Real
+"Currently, there is no cure for COVID-19; prevention and supportive care are used.","",Real
+"Wearing masks and practicing good hygiene help control the spread of respiratory viruses like COVID-19.","",Real
+"Most people with COVID-19 recover with proper care and time.","",Real
+"Health authorities analyze infection and vaccine data to guide public health policies.","",Real
+"Vaccinated people are far less likely to be hospitalized with COVID-19.","",Real
+"Being vaccinated after infection provides strong immunity against COVID-19.","",Real
+"mRNA vaccines instruct cells to produce a viral spike protein, prompting an immune response.","",Real
+"COVID-19 vaccines have simple ingredients like mRNA and lipids, with no unknown toxins.","",Real
+"COVID-19 can cause symptoms like fever, cough, and shortness of breath.","",Real
+"Washing hands with soap for at least 20 seconds helps kill the virus.","",Real
+"CDC and WHO update COVID-19 guidance as new evidence emerges.","",Real
+"COVID-19 should be diagnosed with lab tests rather than by symptoms alone.","",Real
+"If exposed to COVID-19, following quarantine recommendations protects others.","",Real
+"COVID-19 vaccines are provided at no cost to eligible individuals in many countries.","",Real
+"SARS-CoV-2 is not transmitted through food or drinking water.","",Real
+"Getting a COVID-19 vaccine helps protect your community by reducing virus spread.","",Real
