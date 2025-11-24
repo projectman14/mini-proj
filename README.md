@@ -2,6 +2,7 @@
 
 A Python project for claim verification using web search, OCR, and text similarity.
 
+## Setup Instructions
 
 ### 1. Clone the Repository
 
